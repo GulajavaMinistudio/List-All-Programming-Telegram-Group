@@ -136,6 +136,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### SQA
 * [Indonesian Software Quality Assurace](https://t.me/sqa_id)
+* [Indonesian Software Quality Assurace Chapter Jogja](https://t.me/joinchat/HxMrghPz5z3hr0eiRBcXOQ)
 
 ### Cloud Computing Services
 * [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
@@ -151,6 +152,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [ScrapeID](https://t.me/ScrapeID)
 * [Trading Bitcoin](https://t.me/noobitcoin)
 * [Natural Language ID](https://t.me/nlp_lounge)
+* [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
 
 ### Development
 * [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
@@ -171,6 +173,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
 * [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
 * [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
+* [Pasuruan Dev](https://t.me/pasuruandev)
 * [Programmer Semarang Raya](https://t.me/programersemarangraya)
 * [Santren Koding](https://t.me/santrenkoding)
 * [Sidoarjo Dev](https://t.me/sidoarjodev)
