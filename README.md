@@ -34,6 +34,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * **Dart**
   + [dart.web](https://t.me/dart_web)
   + [Flutter Indonesia](https://t.me/flutter_id)
+  + [Flutter Makassar](https://t.me/fluttermakassar)
 
 * **Elixir**
   + [Elixir ID](https://t.me/elixir_id)
@@ -155,6 +156,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
 
 ### Development
+* [Aceh InfoTech](https://t.me/AcehInfoTech)
 * [Belajar GNU R Indonesia](https://t.me/GNURIndonesia)
 * [Belajar HTML](https://t.me/belajarhtmlcss)
 * [Bengkel KMB](https://t.me/kmbteam)
@@ -162,13 +164,13 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [Bot Telegram API](https://t.me/TgBotID)
 * [Cilegon Developer](https://t.me/cilegondeveloper)
 * [CirebonDev](https://t.me/crbdev)
-* [Djember Dev](https://t.me/DjemberDev)
 * [Femalegeek](https://t.me/femalegeek)
 * [Frontend Developer Indonesia](https://t.me/FrontEndID)
 * [Gresik Dev](https://t.me/gresikdev)
 * [IAM Indonesia](https://t.me/IAMIndonesia)
 * [IDStack](https://t.me/idstack)
 * [IT Nusantara](https://t.me/ITNusantara)
+* [JemberDev](https://t.me/DjemberDev)
 * [Komunitas Programmer Makassar](https://t.me/joinchat/CIBeJBFsLn0qc3Ds_Su9jg)
 * [Kongkow IT Medan](https://t.me/kongkowITMedan)
 * [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
